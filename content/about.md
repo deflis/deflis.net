@@ -8,4 +8,6 @@ title = "about"
 
 たまにイベント主催したりとかしてます。
 
+やってることとかは [Links](links) から。
+
 <a class="twitter-timeline"  href="https://twitter.com/deflis" data-widget-id="583568861896650752">@deflisさんのツイート</a>
