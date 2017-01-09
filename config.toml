@@ -1,0 +1,31 @@
+baseurl             = "http://deflis.net/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "ja-jp"
+layoutdir           = "layouts"
+publishdir          = "public"
+author              = "deflis"
+title               = "deflis.net"
+pygmentsuseclasses  = true
+disqusshortname     = "deflis.net"
+pluralizelisttitles = false
+# googleAnalytics     = "UA-123-45"
+
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:year/:month/:day/:title/"
+
+[params]
+author       = "deflis.net"
+cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
+dateform     = "2006-01-02"
+dateformfull = "2006-01-02 03:04:05"
+github       = "//github.com/deflis"
+highlightjs  = true
+lang         = "ja-jp"
+twitter      = "//twitter.com/deflis"
+selfIntro    = "" # appears in the site header when set to a non-empty string
+
+# extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
+
