@@ -1,10 +1,6 @@
 +++
-date = "2017-01-09T20:18:23+09:00"
 title = "Links"
-
 +++
-
-----
 
 * [Twitter](http://twitter.com/deflis)
 * [Eventernote](https://www.eventernote.com/users/deflis)
@@ -27,5 +23,3 @@ title = "Links"
 ----
 
 * [DROWN IN THE DARKNESS!](http://www.cospa.com/detail/id/00000046711)
-
-----
