@@ -14,6 +14,7 @@ title = "Links"
 ----
 
 * [syosetu.com mypage](http://mypage.syosetu.com/252892/)
+* [syosetu.com Bookmark](http://mypage.syosetu.com/mypagefavnovelmain/list/userid/252892/)
 
 ----
 
