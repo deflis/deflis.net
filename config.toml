@@ -10,7 +10,7 @@ title               = "deflis.net"
 pygmentsuseclasses  = true
 disqusshortname     = "deflis.net"
 pluralizelisttitles = false
-# googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-32333182-4"
 
 [permalinks]
 fixed = ":title/"
