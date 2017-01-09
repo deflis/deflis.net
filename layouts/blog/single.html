@@ -9,7 +9,10 @@
                     <div class="initials"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Initials }}</a></div>
                 </div>
                 <div class="meta">
-                    <div class="date" title="{{ .Date.Format .Site.Params.dateformfull }}">{{ .Date.Format .Site.Params.dateform }}</div>
+                    <div class="date" title="{{ .Date.Format .Site.Params.dateformfull }}" datetime="{{ .Date.Format "2006-01-02T03:04:05+09:00" }}">{{ .Date.Format .Site.Params.dateform }}</div>
+                </div>
+                <div class="meta">
+                    <div class="addthis_inline_share_toolbox"></div>
                 </div>
             </div>
             <div class="markdown">
