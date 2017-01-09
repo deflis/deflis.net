@@ -17,7 +17,7 @@ fixed = ":title/"
 blog  = "blog/:year/:month/:day/:title/"
 
 [params]
-author       = "deflis.net"
+author       = "deflis"
 cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
 dateform     = "2006-01-02"
 dateformfull = "2006-01-02 03:04:05"
