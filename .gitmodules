@@ -1,3 +1,6 @@
 [submodule "themes\\cocoa"]
 	path = themes\\cocoa
 	url = https://github.com/deflis/cocoa-hugo-theme.git
+[submodule "themes/cocoa"]
+	path = themes/cocoa
+	url = https://github.com/deflis/cocoa-hugo-theme.git
