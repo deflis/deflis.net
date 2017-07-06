@@ -2,7 +2,17 @@
 title = "Links"
 +++
 
+* [ranobe.net](https://ranobe.net/)
+
+----
+
 * [Twitter](http://twitter.com/deflis)
+* [@deflis@imastodon.net](http://imastodon.net/@deflis)
+* [@deflis@friends.nico](http://friends.nico/@deflis)
+* [@deflis@ranobe.net](http://ranobe.net/@deflis)
+
+----
+
 * [Eventernote](https://www.eventernote.com/users/deflis)
 
 ----

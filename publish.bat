@@ -1,3 +1,5 @@
+cd %~dp0
+
 call build.bat
 
 git add .
